@@ -1,7 +1,9 @@
 [
   {
-    "name": "Core",
-    "build": "Build#v1",
-    "pmmp_api": "5.0.0"
+    "php_version": "8.2",
+    "base_version": "1.0.2+dev",
+    "build": 1.0,
+    "is_dev": false,
+    "mcpe_version": "1.21.2"
   }
 ]
